@@ -126,16 +126,6 @@ Contributions are welcome! Feel free to:
 - Suggest new features
 - Submit pull requests
 
-## 📝 To-Do
-
-- [ ] Fix "February" spelling
-- [ ] Add font embedding for Pixeboy
-- [ ] Add close/minimize buttons
-- [ ] Add settings panel
-- [ ] Add multiple theme options
-- [ ] Add customizable user name
-- [ ] Add day of week display
-
 ## 🍿 Preview
 
 <img width="218" height="230" alt="image" src="https://github.com/user-attachments/assets/f284c214-a75b-4aaf-a629-876ca1d13473" />
